@@ -46,7 +46,7 @@ sections:
           - pl-4
         alignItems: flex-end
         justifyContent: flex-end
-        flexDirection: row
+        flexDirection: col
         borderRadius: none
         borderWidth: 0
         borderStyle: none
