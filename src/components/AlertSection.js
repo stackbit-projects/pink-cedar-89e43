@@ -1,5 +1,5 @@
 const AlertSection = ({ body, ...props }) => {
-    console.log()
+    console.log({props})
   return (
     <div className="p-4 bg-primary text-white text-center">
       <div className="max-w-lg mx-auto">
