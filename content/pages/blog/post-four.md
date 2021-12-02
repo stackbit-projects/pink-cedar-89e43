@@ -49,7 +49,7 @@ bottomSections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - body: 'Lorem ipsum dolor sit amet, consectetur adipiscing eliasd magna aliqua.'
+  - body: Lorem ipsumua.
     type: AlertSection
 ---
 
