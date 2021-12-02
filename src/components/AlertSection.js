@@ -1,4 +1,4 @@
-const AlertSection = ({ body }) => {
+const AlertSection = ({ body, ...props }) => {
     console.log()
   return (
     <div className="p-4 bg-primary text-white text-center">
