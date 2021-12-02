@@ -1,4 +1,4 @@
-const AlertSection = ({ body, ...props }) => {
+const AlertSection = ({ annotationPrefix, body, ...props }) => {
     console.log({props})
   return (
     <div className="p-4 bg-primary text-white text-center">
